@@ -11,3 +11,4 @@
 På dator/mobil: dra för att titta runt, scrolla/nyp för att zooma.
 
 Välj årstid (vår, sommar, höst, vinter) för trädgården utanför fönstren.
+Växla mellan dag och kväll för att se belysningen.
