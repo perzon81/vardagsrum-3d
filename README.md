@@ -12,3 +12,4 @@ På dator/mobil: dra för att titta runt, scrolla/nyp för att zooma.
 Välj årstid (vår, sommar, höst, vinter) för trädgården utanför fönstren.
 Växla mellan dag och kväll för att se belysningen.
 Hue-scener (Solnedgång, Nordljus, Ambilight-synk) med lightstrips, Play-ramper bakom TV:arna och Lily-spotlights i trädgården.
+Möbleringar: som nu, stor TV på kortväggen, TV på pelaren (D/E) och bio med projektorduk mot trädgården. Bebisyta visar lekmatta, babygym, babysitters och grindar vid trappstegen.
