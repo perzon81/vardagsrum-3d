@@ -13,3 +13,4 @@ Välj årstid (vår, sommar, höst, vinter) för trädgården utanför fönstren
 Växla mellan dag och kväll för att se belysningen.
 Hue-scener (Solnedgång, Nordljus, Ambilight-synk) med lightstrips, Play-ramper bakom TV:arna och Lily-spotlights i trädgården.
 Möbleringar: som nu, stor TV på kortväggen, TV på pelaren (D/E) och bio med projektorduk mot trädgården. Bebisyta visar lekmatta, babygym, babysitters och grindar vid trappstegen.
+Två nya möbleringar på förslag D: helvägg mot köket med TV:n centrerad, och Samsung Frame på pelaren plus projektorduk på kortväggen. Bioläge med mörkläggning: gardiner, rullgardiner eller screens ute.
