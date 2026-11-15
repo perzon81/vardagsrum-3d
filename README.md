@@ -1,6 +1,6 @@
 # vardagsrum-3d
 
-3D/VR-modell av köket och det planerade vardagsrummet (förslag A, B och C – glasparti) med valbara inredningsidéer.
+3D/VR-modell av köket och det planerade vardagsrummet (förslag A–E: halvvägg, helt öppet, glasparti, pelaren kvar, pelaren fri med öppning på båda sidor) med valbara inredningsidéer.
 
 Öppna https://perzon81.github.io/vardagsrum-3d/ i Meta Quest-webbläsaren och tryck **Enter VR**.
 
@@ -11,3 +11,4 @@ På dator/mobil: dra för att titta runt, scrolla/nyp för att zooma.
 
 Välj årstid (vår, sommar, höst, vinter) för trädgården utanför fönstren.
 Växla mellan dag och kväll för att se belysningen.
+Hue-scener (Solnedgång, Nordljus, Ambilight-synk) med lightstrips, Play-ramper bakom TV:arna och Lily-spotlights i trädgården.
