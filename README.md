@@ -14,3 +14,4 @@ Växla mellan dag och kväll för att se belysningen.
 Hue-scener (Solnedgång, Nordljus, Ambilight-synk) med lightstrips, Play-ramper bakom TV:arna och Lily-spotlights i trädgården.
 Möbleringar: som nu, stor TV på kortväggen, TV på pelaren (D/E) och bio med projektorduk mot trädgården. Bebisyta visar lekmatta, babygym, babysitters och grindar vid trappstegen.
 Två nya möbleringar på förslag D: helvägg mot köket med TV:n centrerad, och Samsung Frame på pelaren plus projektorduk på kortväggen. Bioläge med mörkläggning: gardiner, rullgardiner eller screens ute.
+Nytt: KIVIK 385 U-soffa, ramduk 110" med skjutbara akustikpaneler, takbalkar i valnöt med indirekt ljus och spotlights, samt gardiner (wave, öljett antracit, öljett linne) som kan dras för.
