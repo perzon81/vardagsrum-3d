@@ -11,8 +11,19 @@ html,body{margin:0;height:100%;overflow:hidden;background:#e6edf3;font-family:sy
 #ui button.on{background:#3e6b5a;color:#fff}
 #help{position:fixed;left:12px;bottom:64px;max-width:520px;background:rgba(255,255,255,.88);border-radius:10px;padding:10px 12px;font-size:13px;line-height:1.45;color:#2e2c29}
 #vrbtn{z-index:10}
+#uitog{position:fixed;right:12px;top:12px;z-index:20;border:0;background:rgba(46,44,41,.88);color:#fff;font-size:15px;font-weight:600;padding:9px 14px;border-radius:10px;cursor:pointer;box-shadow:0 1px 4px rgba(0,0,0,.2)}
+#ui{right:96px}
+body.hide #ui,body.hide #help{display:none}
+@media (max-width:700px){
+  body:not(.show) #ui,body:not(.show) #help{display:none}
+  #ui{max-height:72vh;overflow-y:auto;pointer-events:auto;right:12px;top:58px}
+  #ui .grp{flex-wrap:wrap;max-width:100%}
+  #ui button{padding:7px 9px;font-size:13px}
+  #help{display:none !important}
+}
 </style></head><body>
 <div id="app"></div>
+<button id="uitog" onclick="document.body.classList.toggle(matchMedia('(max-width:700px)').matches?'show':'hide')" aria-label="Visa eller dölj kontroller">☰ Val</button>
 <div id="ui">
   <div class="grp"><button data-c="A" class="on">A · Halvvägg</button><button data-c="B">B · Helt öppet</button><button data-c="C">C · Glasparti</button><button data-c="D">D · Pelaren kvar</button><button data-c="E">E · Pelaren fri</button></div>
   <div class="grp"><button id="sky">Takfönster</button><button id="win">Höga fönster</button><button id="sty">Inredningsidéer</button><button id="scr">Screens nere</button><button id="bab">Bebisyta</button></div>
